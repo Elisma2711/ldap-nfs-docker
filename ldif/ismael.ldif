@@ -1,0 +1,16 @@
+dn: uid=ismael,dc=example,dc=org
+changetype: add
+uid: ismael
+cn: ismael
+sn: 3
+objectClass: top
+objectClass: posixAccount
+objectClass: inetOrgPerson
+loginShell: /bin/bash
+homeDirectory: /home/ismael
+uidNumber: 14583103
+gidNumber: 14564100
+userPassword: 1234
+mail: ismael@example.org
+gecos: Ismael User
+
